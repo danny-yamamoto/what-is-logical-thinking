@@ -25,3 +25,16 @@ section blockquote {
   padding: 10px 20px;
   border-left: 5px solid #ddd;
 }
+
+section table {
+  font-size: 0.7em;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+section table th,
+section table td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  line-height: 1.4;
+}

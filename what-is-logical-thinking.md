@@ -3,6 +3,10 @@ marp: true
 theme: custom
 ---
 
+![blur bg cover](./rubiks-cube-933202_1920.jpg)
+
+<!-- _backgroundColor: rgba(0, 0, 0, 0.6) -->
+<!-- _color: white -->
 # 「論理的思考とは何か」を考える
 
 ---
